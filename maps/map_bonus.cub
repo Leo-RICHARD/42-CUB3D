@@ -1,0 +1,15 @@
+R 2560 1440
+
+NO ./tx/hedge.xpm
+SO ./tx/hedge 2.xpm
+WE ./tx/hedge 2.xpm
+EA ./tx/hedge.xpm
+
+C 42,0,42
+F 210,210,210
+
+11111
+10001
+10N01
+10001
+11111
